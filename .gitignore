@@ -1,0 +1,11 @@
+
+# My Stuff
+notes.md
+.env
+
+# NPM
+node_modules/
+dist/
+
+# Mac OS
+.DS_Store

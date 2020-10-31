@@ -1,0 +1,19 @@
+{
+  "name": "wheres-my-stuff",
+  "version": "1.0.0",
+  "description": "Let multiple people know where your stuff is.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisSannar/wheres-my-stuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisSannar/wheres-my-stuff/issues"
+  },
+  "homepage": "https://github.com/ChrisSannar/wheres-my-stuff#readme"
+}
