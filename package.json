@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/ChrisSannar/wheres-my-stuff/issues"
   },
-  "homepage": "https://github.com/ChrisSannar/wheres-my-stuff#readme"
+  "homepage": "https://github.com/ChrisSannar/wheres-my-stuff#readme",
+  "dependencies": {}
 }
